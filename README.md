@@ -2,12 +2,12 @@
 
 ## Please note
 
-This is my first Socket.io / Lit / Elasticsearch project ever!
-I never used those technologies before.
+Please consider Chatty is my first Socket.io / Lit / Elasticsearch project ever! I had never used those technologies before.
 
-It was challenging (in the good way) and fun, I put a lot of effort into the project (given the time I had).
+I guess I'm not using all the best practices with the current tech stack.
 
-Yet I guess I'm not using all the best practices with the current tech-stack.
+Yet it was challenging (in a good way) and fun. I put a lot of effort into the project (given the time I had).
+
 
 ## Development
 
