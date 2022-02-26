@@ -1,0 +1,21 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+
+  --font-style: Roboto;
+  --border-radius: 8px;
+  --border-radius-forms: 6px;
+
+  --typography-color: #0a0818e6;
+  --outline-color: #c7c7c7;
+  --bg-primary-color: #499bf82a;
+  --shadow-color: #8888882e;
+  --light-border-color: #f6f6f6b9;
+
+  font-family: var(--font-style);
+  color: var(--typography-color);
+}
