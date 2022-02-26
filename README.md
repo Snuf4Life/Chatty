@@ -38,7 +38,7 @@ Wait the docker to finished building, then
 npm start
 ```
 If you get connection error (ConnectionError: other side closed - Local...)
-Try to change the http://localhost:<the port of elastic> to HTTPSnpm start, should solve the problem. 
+Try to change the http://localhost:<the port of elastic> to HTTPS, should solve the problem. 
 
 ### Client
 
