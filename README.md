@@ -48,12 +48,12 @@ npm i && npm start
 ```
 
 ### About Chatty
-Its a simple chat appliuction, just enter you nickname (do not use the word "chatty" in your name he doesn't like it) and go in.
-You can ask Chatty simple question like
+Its a simple chat appliuction, just enter your nickname (do not use the word "chatty" in your name he doesn't like it) and go in.
+You can ask Chatty simple general question like:
 - Hi Chatty
 - Do you love me?
 - Whats your dream
 
-Chatty has a tag system where you can mark your text input as a question, then other users can answer it.
+Also Chatty has a tag system where you can mark your text input as a question, then other users can answer it.
 When answering a question, chatty remembers the answer.
 Next time Chatty will be able to answer the same question by himself. 
