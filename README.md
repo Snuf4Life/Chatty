@@ -44,7 +44,7 @@ Try to change the http://localhost:<the port of elastic> to HTTPS, should solve 
 
 ```bash
 cd ./Chatty/client
-npm i && docker-compose up
+npm i && npm start
 ```
 
 ### About Chatty
