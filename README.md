@@ -48,7 +48,7 @@ npm i && npm start
 ```
 
 ### About Chatty
-Its a simple chat appliuction, just enter your nickname (do not use the word "chatty" in your name he doesn't like it) and go in.
+Its a simple chat application, just enter your nickname (do not use the word "chatty" in your name he doesn't like it) and go in.
 You can ask Chatty simple general question like:
 - Hi Chatty
 - Do you love me?
