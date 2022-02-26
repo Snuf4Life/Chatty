@@ -1,0 +1,21 @@
+{
+  "name": "chat-service",
+  "version": "1.0.0",
+  "description": "socket io chat service",
+  "main": "index.js",
+  "scripts": {
+    "build-es": "docker-compose up",
+    "start": "node src/index.js",
+    "dev": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Gilboa Gehtman",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.0.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1",
+    "uuid": "^8.3.2"
+  }
+}
